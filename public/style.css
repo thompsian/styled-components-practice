@@ -1,7 +1,8 @@
 body {
-  background-color: #aaf0d1;
+  background-color: #CCDDEE;
   display: flex;
   justify-content: center;
-  color: #d1aaf0;
+  text-align: center;
   font-family: sans-serif;
+  color: #b19cd9;
 }
